@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Nagarro
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Atleast 500 commits
-- ⚡ Fun fact: I am lazy 🥱
+- ⚡ Fun fact: I never wanted to become a coder in my school days
 
 <br />
 
